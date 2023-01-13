@@ -87,12 +87,14 @@ function App() {
           <form onSubmit={createWorkout}
             className={style.form}>
             <input 
+              required
               value={input}
               onChange={(e) => setInput(e.target.value)}
               className={style.input}
               type="text"
               placeholder="Exercise" />
             <input 
+              required
               value={group}
               onChange={(e) => setGroup(e.target.value)}
               className={style.input}
@@ -100,17 +102,19 @@ function App() {
               placeholder="Group (optional)" />
             <div className={style.btnContainer}>
               <input 
+                required
                 value={sets}
                 onChange={(e) => setSets(e.target.value)}
                 className={style.input2}
-                type="text"
+                type="number"
                 placeholder="Sets" />
                 <p className="py-1"> x </p>
               <input 
+                required
                 value={reps}
                 onChange={(e) => setReps(e.target.value)}
                 className={style.input2}
-                type="text"
+                type="number"
                 placeholder="Reps" />
             </div>
             <button className={style.button}>

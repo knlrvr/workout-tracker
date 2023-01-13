@@ -1,0 +1,14 @@
+API_KEY='AIzaSyBbIT50jx4_1wVlcW1JzipMyHMMw5La18o',
+
+AUTH_DOMAIN='workout-tracker-cd97a.firebaseapp.com',
+
+PROJECT_ID='workout-tracker-cd97a',
+
+STORAGE_BUCKET='workout-tracker-cd97a.appspot.com',
+
+MESSAGING_SENDER_ID='286378129377',
+
+APP_ID='1:286378129377:web:4afed1d04ed07e9e4cc4a0',
+
+MEASUREMENT_ID='G-473TDCYRQV'
+
