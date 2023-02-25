@@ -16,6 +16,7 @@ import {
 import Header from './components/Header';
 import Footer from './components/Footer';
 
+// Initialize the FirebaseUI Widget using Firebase.
 
 const style = {
   bg: `p-4 bg-white`,
