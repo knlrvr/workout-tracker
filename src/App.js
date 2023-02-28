@@ -3,7 +3,7 @@ import {
   AiOutlinePlus 
 } from 'react-icons/ai';
 import Workout from './Workout';
-import {db} from './firebase';
+import {db} from './firebase'; 
 import {
   query, 
   collection, 
