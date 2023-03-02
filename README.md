@@ -5,6 +5,9 @@
 ## Description
 A workout tracker, built with React, Tailwind & Firebase. This app allows you to create, edit, or delete entries. 
 
+## View 
+[Live Demo](https://workout-tracker-cd97a.web.app/)
+
 ## Built With
 - React
 - Tailwind
