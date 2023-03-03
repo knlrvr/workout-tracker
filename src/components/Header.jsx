@@ -2,7 +2,7 @@ import React from 'react';
 import { BsGithub } from 'react-icons/bs';
 
 const style = {
-    container: `bg-white flex justify-between font-mono max-w-3xl mx-auto px-4 mt-3`,
+    container: `bg-white flex justify-between font-mono max-w-3xl mx-auto px-4 mt-4`,
     me: ``,
     icon: ` py-1`,
 }
